@@ -11,7 +11,9 @@ The card below is rendered on the server based on the value of \`process.env.CON
 
 
 const preDynamicContentExplainer = `
+const preDynamicContentExplainer = `
 Axion below is fetched by the client-side from \`/quotes/random\` (see file \`app/quotes/random/route.js\`) with a different quote shown on each page load:
+`;
 `;
 
 const postDynamicContentExplainer = `
