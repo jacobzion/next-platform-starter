@@ -39,7 +39,7 @@ export default function Home() {
         </section>
   
         <footer className="bg-blue-900 text-white py-6 mt-20 text-center text-sm">
-          &copy; {new Date().getFullYear()} 111 Axion Capitals. All rights reserved.
+          &copy; {new Date().getFullYear()} Axion Capitals. All rights reserved.
         </footer>
       </main>
     );
